@@ -1,0 +1,92 @@
+{
+  "categoryPath": "Headphones, Earbuds & Accessories > Headphones > Open-Ear Headphones",
+  "pricing": {
+    "price": "₹2,499.00",
+    "mrp": "₹5,999.00",
+    "savingsPercent": "58%",
+    "inclusiveOfTaxes": true
+  },
+  "delivery": {
+    "standard": "FREE delivery Saturday, 6 September",
+    "fastest": "Tomorrow, 5 September (order within 4 hrs)"
+  },
+  "availability": {
+    "status": "In stock",
+    "shipsFrom": "Amazon",
+    "soldBy": "Cocoblu Retail",
+    "quantityDefault": 1,
+    "hostingsite": "Amazon",
+    "product-url": "https://amzn.to/4mrKTgR"
+  },
+  "purchaseOptions": {
+    "buttons": ["Add to Cart", "Buy Now"],
+    "otherOptions": ["Add gift options", "Add to Wish List"],
+    "paymentMethods": ["Credit/Debit cards", "UPI & more"],
+    "emi": {
+      "startsAt": "₹121",
+      "noCostEmiAvailable": true,
+      "emiSavings": "₹112.53 (Amazon Pay ICICI Bank Credit Cards)"
+    }
+  },
+  "offers": {
+    "cashback": "Upto ₹74.00 cashback (Amazon Pay ICICI Bank Credit Cards)",
+    "noCostEmi": true,
+    "bankOffers": "Upto ₹1,500.00 discount on select cards",
+    "totalOffers": 31
+  },
+  "warrantyAndService": {
+    "replacementWindow": "10 days Service Centre Replacement",
+    "warranty": "1 Year",
+    "cashOnDelivery": true,
+    "topBrand": true
+  },
+  "variants": [
+    { "color": "Jet Black", "price": "₹2,499.00", "mrp": "₹5,999.00", "savings": "58%" },
+    { "color": "Asky Blue", "price": "₹699.00", "mrp": "₹2,299.00", "savings": "70%" },
+    { "color": "Black", "price": "₹599.00", "mrp": "₹1,999.00", "savings": "70%" },
+    { "color": "Blue", "price": "₹599.00", "mrp": "₹1,999.00", "savings": "70%" },
+    { "color": "Jade Black", "price": "₹699.00", "mrp": "₹2,299.00", "savings": "70%" },
+    { "color": "Selver/Black", "price": "₹698.00", "mrp": "₹3,199.00", "savings": "78%" },
+    { "color": "Skay Blue", "price": "₹698.00", "mrp": "₹3,199.00", "savings": "78%" }
+  ],
+  "productDetails": {
+    "title": "pTron Zenbuds Evo X2 Pro Open Ear Wireless Earbuds",
+    "subtitle": "SafeBeats Design, 4 QuadPro Mics with ENC Calls, 60H Playtime, Wraparound Audio, BT5.3 Headphones, Touch Control & Type C Fast Charging (Jet Black)",
+    "brand": "pTron",
+    "storeLink": "Visit the pTron Store",
+    "image":     "https://m.media-amazon.com/images/I/71CJDUMK1JL._SL1200_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71CJDUMK1JL._SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/51fHLdFgAML._SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/618EJ7MjlZL._SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/61l5DY7Gl8L._SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/61k682Ez7uL._SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/51Ew78n+pdL._SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/61DyKyd25eL._SL1200_.jpg"
+    ],
+    "ratings": {
+      "stars": "4.3",
+      "ratingsCount": 1193,
+      "purchasesPastMonth": "300+"
+    }
+  },
+  "technicalSpecs": {
+    "colour": "Jet Black",
+    "earPlacement": "Open Ear",
+    "formFactor": "On Ear",
+    "impedance": "32 Ohm"
+  },
+  "aboutThisItem": [
+    "SafeBeats design for comfortable & pressure-free listening, keeps users aware of surroundings",
+    "4 Mics & TruTalk ENC technology for clearer calls (up to 3x)",
+    "60 Hours combined playback with charging case",
+    "14.2mm Dynamic Driver for immersive stereo",
+    "Recommended volume 60%-70% for best experience & near-zero audio spill",
+    "Bluetooth V5.3 with 40ms low-latency sync",
+    "Touch Sensor for music/calls & voice assistant",
+    "IPX5 water-resistant",
+    "Portable charging case with Type-C fast charging (1h earbuds, 1.5h case)",
+    "Ideal for sports, commuting, outdoor adventures",
+    "1-year manufacturer warranty on manufacturing defects"
+  ]
+}

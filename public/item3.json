@@ -1,0 +1,88 @@
+{
+  "categoryPath": "Computers & Accessories > Accessories & Peripherals > Laptop Accessories > Laptop Chargers & Power Supplies",
+  "pricing": {
+    "price": "₹1,799.00",
+    "mrp": "₹5,000.00",
+    "savingsPercent": "64%",
+    "inclusiveOfTaxes": true,
+    "fulfilled": true
+  },
+  "delivery": {
+    "standard": "FREE delivery Monday, 8 September",
+    "fastest": "Tomorrow, 7 September (order within 6 hrs 22 mins)"
+  },
+  "availability": {
+    "status": "In stock",
+    "shipsFrom": "Amazon",
+    "soldBy": "Clicktech Retail Private Ltd",
+    "packaging": "Ships in product packaging",
+    "quantityDefault": 1,
+    "hostingsite": "Amazon",
+    "product-url": "https://amzn.to/4gk8pdy"
+  },
+  "purchaseOptions": {
+    "buttons": ["Add to Cart", "Buy Now"],
+    "otherOptions": ["Add to Wish List"],
+    "paymentMethods": ["Credit/Debit cards", "UPI & more"],
+    "protectionPlan": "1 Year Extended Warranty for ₹189.00",
+    "emi": {
+      "startsAt": "₹88",
+      "noCostEmiAvailable": true,
+      "emiSavings": "₹81.03 on Amazon Pay ICICI Bank Credit Cards"
+    }
+  },
+  "offers": {
+    "cashback": "Upto ₹53.00 cashback (Amazon Pay ICICI Bank Credit Cards)",
+    "noCostEmi": true,
+    "bankOffers": "Upto ₹1,500.00 discount on select Credit/Debit Cards",
+    "partnerOffers": "Get GST invoice and save up to 28% on business purchases",
+    "totalOffers": 30
+  },
+  "warrantyAndService": {
+    "replacementWindow": "10 days Replacement",
+    "warranty": "7 Day Warranty",
+    "cashOnDelivery": true,
+    "topBrand": true,
+    "amazonDelivered": true,
+    "secureTransaction": true
+  },
+  "variants": [
+    { "size": "30W Charger", "price": "₹1,599.00", "mrp": "₹5,000.00", "savings": "68%" },
+    { "size": "61W", "price": "₹1,799.00", "mrp": "₹5,000.00", "savings": "64%" }
+  ],
+  "productDetails": {
+    "title": "USB-C Power 61W Adapter Charger Replacement for MacBook Pro 13/12/14 Inch, Compatible with MacBook Air/iPad Pro/Type C Laptop",
+    "subtitle": "Included USB-C to USB-C Charger Cable (6.6ft/2m)",
+    "brand": "VNJ ACCESSORIES",
+    "images": [
+      "https://m.media-amazon.com/images/I/41wBxL6iPJL.jpg",
+      "https://m.media-amazon.com/images/I/51gaW16TMJL.jpg",
+      "https://m.media-amazon.com/images/I/51GPmxUTNDL.jpg",
+      "https://m.media-amazon.com/images/I/61H3Egut+iL.jpg"
+    ],
+    "ratings": {
+      "stars": "3.8",
+      "ratingsCount": 159,
+      "purchasesPastMonth": "50+"
+    }
+  },
+  "technicalSpecs": {
+    "brand": "VNJ ACCESSORIES",
+    "connectorType": "USB",
+    "compatibleDevices": "Laptops",
+    "includedComponents": "USB Cable",
+    "inputVoltage": "2.4 Volts",
+    "totalUsbPorts": 1,
+    "wattage": "61 Watts",
+    "numberOfItems": 1,
+    "outputCurrent": "2 Amps",
+    "specificationMet": "FCC"
+  },
+  "aboutThisItem": [
+    "Input: AC 100-240V, 1.5A, 50-60Hz; Output: 14.5V/2A, 20.3V/3A, 9V/3A, 5.2V/2.4A. Auto-detect devices and provide optimal current",
+    "61W USB-C Laptop Charger compatible with MacBook Pro 13 (2016–2022), MacBook Pro 14, MacBook Pro 12 (2015, A1706, A1708, A1707, A1534)",
+    "Compatible with MacBook Pro 16/15/13, MacBook Air 13 (2018–2020), iPad Pro 12.9/11 (2018, 2020), iPad Air 10.9 (2020), Type-C laptops & Android phones",
+    "Compatible with MacBook Air 13 (A1932, A2179), MacBook 12 (A1534, 2015–2020), and other Type-C laptops",
+    "Package includes: 1 × 61W USB-C Power Adapter, 1 × USB-C to USB-C Charging Cable"
+  ]
+}
