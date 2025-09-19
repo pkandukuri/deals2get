@@ -54,6 +54,8 @@ export default function MiniProductCard({ data }) {
                     availability={availability}
                 />
             </div>
+            <div className="pc-horizontal-spacer"> </div>
+
         </article>
     );
 }

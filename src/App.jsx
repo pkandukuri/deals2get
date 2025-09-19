@@ -25,7 +25,7 @@ export default function App() {
       <main className="container main-content">
         <Search />
 
-        <div style={{ margin: "20px 0" }}>
+        <div style={{ margin: "10px 0" }}>
           <MiniProductCard data={item} />
          {/* <ProductCard data={item} /> */}
         </div>
